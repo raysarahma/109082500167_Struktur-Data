@@ -285,7 +285,7 @@ penjelasan unguided 3 :
 Program ini dibuat untuk menampilkan pola angka sesuai dengan nilai n yang dimasukkan. Perulangan digunakan untuk mengatur baris, spasi, serta urutan angka dari kiri ke kanan dengan tanda bintang di tengah. Nilai angka pada setiap baris akan berkurang sampai membentuk pola seperti pada soal, kemudian tanda bintang terakhir dicetak pada bagian paling bawah.
 
 ## Kesimpulan
-Dari praktikum modul 1 ini saya belajar cara memakai Code Blocks untuk membuat project, menulis kode, lalu build dan run. Saya juga jadi paham dasar C++ seperti deklarasi variabel, tipe data, input dengan cin, dan output dengan cout. Dari latihan, saya belajar bahwa tipe data sangat berpengaruh pada hasil hitungan (misalnya pembagian int yang hasilnya dibulatkan), percabangan if-else dan switch berguna untuk menangani banyak kondisi seperti di soal angka ke tulisan, dan perulangan bersarang bisa dipakai untuk membuat pola seperti soal Mirror.
+Dari praktikum modul 1 ini saya belajar dasar C++ seperti deklarasi variabel, tipe data, input dengan cin, dan output dengan cout. Dari latihan, saya belajar bahwa tipe data sangat berpengaruh pada hasil hitungan (misalnya pembagian int yang hasilnya dibulatkan), percabangan if-else dan switch berguna untuk menangani banyak kondisi seperti di soal angka ke tulisan, dan perulangan bersarang bisa dipakai untuk membuat pola seperti soal Mirror.
 
 ## Referensi
 [1] Laboratorium Informatika, Fakultas Informatika, Telkom University. (n.d.). Modul 1 Code Blocks IDE & Pengenalan Bahasa C++ (Bagian Pertama). Modul Praktikum Struktur Data.
