@@ -172,11 +172,11 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData\output/soal01_output1.png)
+![Screenshot Output Unguided 1_1](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData/output/soal01_output1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 1_2](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData\output/soal01_output2.png)
+![Screenshot Output Unguided 1_2](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData/output/soal01_output2.png)
 
 penjelasan unguided 1 :
 Program ini dibuat untuk memasukkan dua nilai, yaitu a dan b, kemudian kedua nilai tersebut digunakan untuk melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian. Nilai a dan b dimasukkan lewat cin, sedangkan hasil dari setiap perhitungan ditampilkan menggunakan cout. Jadi, program ini menggunakan variabel, input-output, dan operator aritmatika untuk melakukan perhitungan sederhana.
@@ -228,11 +228,11 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 2_1](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData\output/soal02_output1.png)
+![Screenshot Output Unguided 2_1](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData/output/soal02_output1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 2_2](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData\output/soal02_output2.png)
+![Screenshot Output Unguided 2_2](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData/output/soal02_output2.png)
 
 penjelasan unguided 2 :
 Program ini dibuat untuk memasukkan sebuah angka, kemudian mengubah angka tersebut menjadi bentuk tulisan. Array digunakan untuk menyimpan nama angka dari nol sampai sembilan, sedangkan percabangan digunakan untuk menentukan tulisan sesuai dengan angka yang dimasukkan. Pada angka puluhan, pembagian dan sisa bagi digunakan untuk menentukan nilai puluhan dan satuannya, lalu hasil akhirnya ditampilkan ke layar.
@@ -275,11 +275,11 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData\output/soal03_output1.png)
+![Screenshot Output Unguided 3_1](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData/output/soal03_output1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 3_2](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData\output/soal03_output2.png)
+![Screenshot Output Unguided 3_2](https://github.com/raysarahma/109082500167_Struktur-Data/blob/main/109082500167_StrukturData/output/soal03_output1.png)
 
 penjelasan unguided 3 :
 Program ini dibuat untuk menampilkan pola angka sesuai dengan nilai n yang dimasukkan. Perulangan digunakan untuk mengatur baris, spasi, serta urutan angka dari kiri ke kanan dengan tanda bintang di tengah. Nilai angka pada setiap baris akan berkurang sampai membentuk pola seperti pada soal, kemudian tanda bintang terakhir dicetak pada bagian paling bawah.
